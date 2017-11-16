@@ -1,0 +1,17 @@
+{
+    "name": "WidgetSlideSwitch",
+    "version": "1.0.0",
+    "keywords": "Widget,SlideSwitch",
+    "description": "滑动开关应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetSlideSwitch.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
